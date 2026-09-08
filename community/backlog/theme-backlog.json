@@ -247,9 +247,7 @@
     "mainColor": "oklch(92.0% 0.025 240.0 / 1)",
     "secondaryColor": "oklch(70.0% 0.135 225.0 / 1)",
     "issued": false,
-    "completed": false,
-    "completedBy": "OMSHIVSHARAN",
-    "completedPR": 29979
+    "completed": false
   },
   {
     "id": "geisha-grace",
@@ -399,9 +397,7 @@
     "mainColor": "oklch(75.0% 0.175 195.0 / 1)",
     "secondaryColor": "oklch(80.0% 0.195 330.0 / 1)",
     "issued": false,
-    "completed": false,
-    "completedBy": "7487",
-    "completedPR": 30003
+    "completed": false
   },
   {
     "id": "tea-ceremony",
@@ -1351,9 +1347,7 @@
     "mainColor": "oklch(82.0% 0.155 85.0 / 1)",
     "secondaryColor": "oklch(70.0% 0.145 20.0 / 1)",
     "issued": false,
-    "completed": false,
-    "completedBy": "LyraCS",
-    "completedPR": 29972
+    "completed": false
   },
   {
     "id": "harbor-fog",
@@ -1423,9 +1417,7 @@
     "mainColor": "oklch(65.0% 0.195 25.0 / 1)",
     "secondaryColor": "oklch(78.0% 0.105 85.0 / 1)",
     "issued": false,
-    "completed": false,
-    "completedBy": "patrykgawrysiak",
-    "completedPR": 29893
+    "completed": false
   },
   {
     "id": "poppy-udon",
